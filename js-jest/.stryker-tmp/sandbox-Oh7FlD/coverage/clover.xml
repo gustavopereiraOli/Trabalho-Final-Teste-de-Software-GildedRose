@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1765241939029" clover="3.2.0">
+  <project timestamp="1765241939029" name="All files">
+    <metrics statements="47" coveredstatements="47" conditionals="33" coveredconditionals="33" methods="15" coveredmethods="15" elements="95" coveredelements="95" complexity="0" loc="47" ncloc="47" packages="1" files="1" classes="1"/>
+    <file name="gilded_rose.js" path="E:\Trabalho-Final-Teste-de-Software-GildedRose\js-jest\src\gilded_rose.js">
+      <metrics statements="47" coveredstatements="47" conditionals="33" coveredconditionals="33" methods="15" coveredmethods="15"/>
+      <line num="3" count="42" type="stmt"/>
+      <line num="4" count="42" type="stmt"/>
+      <line num="5" count="42" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="14" count="30" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="28" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="26" type="stmt"/>
+      <line num="23" count="27" type="stmt"/>
+      <line num="25" count="27" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="25" type="stmt"/>
+      <line num="29" count="27" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="6" type="stmt"/>
+      <line num="33" count="27" type="stmt"/>
+      <line num="49" count="37" type="stmt"/>
+      <line num="55" count="9" type="cond" truecount="4" falsecount="0"/>
+      <line num="56" count="5" type="stmt"/>
+      <line num="61" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="62" count="2" type="stmt"/>
+      <line num="69" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="70" count="3" type="stmt"/>
+      <line num="84" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="85" count="12" type="stmt"/>
+      <line num="87" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="88" count="8" type="stmt"/>
+      <line num="91" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="92" count="5" type="stmt"/>
+      <line num="99" count="2" type="stmt"/>
+      <line num="106" count="2" type="stmt"/>
+      <line num="113" count="25" type="cond" truecount="4" falsecount="0"/>
+      <line num="115" count="6" type="stmt"/>
+      <line num="117" count="9" type="stmt"/>
+      <line num="119" count="3" type="stmt"/>
+      <line num="121" count="7" type="stmt"/>
+      <line num="128" count="19" type="stmt"/>
+      <line num="132" count="19" type="stmt"/>
+      <line num="133" count="21" type="stmt"/>
+      <line num="134" count="21" type="stmt"/>
+      <line num="135" count="21" type="stmt"/>
+      <line num="138" count="19" type="stmt"/>
+      <line num="142" count="1" type="stmt"/>
+      <line num="147" count="1" type="stmt"/>
+      <line num="148" count="1" type="stmt"/>
+      <line num="149" count="1" type="stmt"/>
+      <line num="150" count="1" type="stmt"/>
+      <line num="151" count="1" type="stmt"/>
+      <line num="152" count="1" type="stmt"/>
+      <line num="153" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
